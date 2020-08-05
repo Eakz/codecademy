@@ -1,0 +1,2 @@
+(window.__LOADABLE_LOADED_CHUNKS__=window.__LOADABLE_LOADED_CHUNKS__||[]).push([[69],{XE8I:function(n,_,a){"use strict";_.a=function(n,_,a,e){n.languages.register({id:_}),n.languages.setLanguageConfiguration(_,a),n.languages.setMonarchTokensProvider(_,e)}}}]);
+//# sourceMappingURL=69.1d6aa1d537eb49f05d73.chunk.js.map
